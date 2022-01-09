@@ -4,7 +4,7 @@
 ![react.js](https://www.prakalpana.com/wp-content/uploads/2020/10/react.png)
 
 # Project demonstration sample image
-
+![showcase](/movie-rater.png)
 
 # Getting Started with Create React App
 
