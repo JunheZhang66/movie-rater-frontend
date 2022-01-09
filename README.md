@@ -1,3 +1,11 @@
+# Movie Rater frontend
+
+## Frontend of movie rater application implemented using React.js
+![react.js](https://www.prakalpana.com/wp-content/uploads/2020/10/react.png)
+
+# Project demonstration sample image
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
